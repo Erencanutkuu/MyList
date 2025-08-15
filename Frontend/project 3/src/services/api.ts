@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = "45c39b807f216578a180035495df545e";
+const API_KEY = "KENDİ APİNİZ";
 const BASE_URL = "https://api.themoviedb.org/3";
 const DB_HOST = "shuttle.proxy.rlwy.net";
 const DB_PORT = 32803;
