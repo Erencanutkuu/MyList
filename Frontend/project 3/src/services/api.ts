@@ -5,7 +5,7 @@ const BASE_URL = "https://api.themoviedb.org/3";
 const DB_HOST = "shuttle.proxy.rlwy.net";
 const DB_PORT = 32803;
 const DB_USER = "root";
-const DB_PASS = "XwIZrBIYuoAvTxzrGFsiMTsjQCpyVoXE";
+const DB_PASS = "KENDİ PASSİNİZ";
 const DB_NAME = "dizi_film_listesi";
 
 const FLASK_API = 'http://127.0.0.1:5000';
