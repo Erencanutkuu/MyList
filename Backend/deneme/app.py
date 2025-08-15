@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app, supports_credentials=True, origins=["http://127.0.0.1:5173", "http://localhost:5173"])
 
 # --- API KEY'LER ---
-genai.configure(api_key="AIzaSyDhyZi0JrgYoYvkjO3WS4C6Ru8QbmHIyx8")
+genai.configure(api_key="KENDİ APİNİZ ")
 model = genai.GenerativeModel("models/gemini-1.5-flash-latest")
 
 TMDB_API_KEY = "45c39b807f216578a180035495df545e"
